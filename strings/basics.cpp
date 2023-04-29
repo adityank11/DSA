@@ -20,6 +20,8 @@ int main()
     // cout<<"Length: "<<getlen(name);
     string k = "Aditya";
     // k.replace("a","c");
-    cout<<k;
+    // cout<<k;
+    string s = "di";
+    cout<<k.find(s);
     return 0;
 }
